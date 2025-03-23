@@ -1,0 +1,26 @@
+This project demonstrates the creation of an interactive Power BI dashboard to analyze and visualize key performance indicators (KPIs) for a call center’s customer service department. The objective of this dashboard is to provide meaningful insights into customer satisfaction, agent performance, and call handling efficiency.
+
+Key components of the dashboard include:
+
+Overall Customer Satisfaction: A metric to measure how satisfied customers are with the service, derived from survey data or feedback scores.
+
+Call Handling Metrics:
+
+Total Calls Answered vs Abandoned: Visualizations to compare answered calls with abandoned calls, helping the company identify potential service gaps.
+
+Calls by Time: A time-based analysis showing when the peak times for customer calls occur. This insight is critical for staffing and optimizing resource allocation.
+
+Average Speed of Answer (ASA): This KPI measures how quickly agents respond to customer calls. The goal is to minimize the ASA to improve customer experience.
+
+Agent Performance Quadrant: A performance quadrant that compares agents based on two key factors:
+
+Average Handle Time (AHT): The average duration of calls handled by an agent.
+
+Calls Answered: The number of calls an agent successfully answers. The quadrant allows the identification of high-performing agents versus those needing improvement.
+
+Project Insights:
+The dashboard helps managers identify trends in customer service performance, pinpoint peak call times, and assess how well agents are handling customer inquiries.
+
+By monitoring these KPIs, the company can adjust staffing levels, improve customer service training, and enhance overall customer experience.
+
+Visualizations are built to be user-friendly and interactive, enabling stakeholders to explore the data and drill down into specifics as needed.
